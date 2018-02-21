@@ -1,0 +1,6 @@
+﻿  Source.cpp
+e:\web\cpp\workspace\43_standart_function_type\43_standart_function_type\source.cpp(30): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\web\cpp\workspace\43_standart_function_type\43_standart_function_type\source.cpp(38): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\web\cpp\workspace\43_standart_function_type\43_standart_function_type\source.cpp(42): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\web\cpp\workspace\43_standart_function_type\43_standart_function_type\source.cpp(49): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  43_Standart_Function_Type.vcxproj -> E:\web\Cpp\workspace\43_Standart_Function_Type\x64\Debug\43_Standart_Function_Type.exe

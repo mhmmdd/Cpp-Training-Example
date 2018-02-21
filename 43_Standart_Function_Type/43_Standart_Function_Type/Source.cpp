@@ -1,0 +1,60 @@
+#include <iostream>
+#include <vector>
+#include <functional>
+#include <algorithm>
+#include <string>
+using namespace std;
+
+
+bool check(string &test) {
+	return test.size() == 3;
+}
+
+class Check {
+public:
+	bool operator()(string &test) {
+		return test.size() == 5;
+	}
+} check1;
+
+void run(function<bool(string &)> check) {
+	string test = "dog";
+	cout << "check: " << check(test) << endl;
+}
+
+int main() {
+	int size = 3;
+
+	vector<string> vec{ "one", "two", "three" };
+
+	int count = count_if(vec.begin(), vec.end(),
+		[size](string test) {
+			return test.size() == size;
+		}
+	);
+	cout << count << endl;
+
+
+	int count2 = count_if(vec.begin(), vec.end(), check);
+	cout << count2 << endl;
+
+
+	int count3 = count_if(vec.begin(), vec.end(), check1);
+	cout << count3 << endl;
+
+
+	auto lambda = [size](string test) {
+		return test.size() == size;
+	};
+	int count4 = count_if(vec.begin(), vec.end(), lambda);
+
+	run(lambda);
+
+	function<int(int, int)> add = [](int one, int two) {
+		return one + two;
+	};
+	cout << add(7, 3) << endl;
+
+	cin.get();
+	return 0;
+}

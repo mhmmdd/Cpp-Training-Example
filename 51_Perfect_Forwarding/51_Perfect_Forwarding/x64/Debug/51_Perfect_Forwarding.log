@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\web\cpp\workspace\tutorial_examples\51_perfect_forwarding\51_perfect_forwarding\source.cpp(25): warning C4101: 'test': unreferenced local variable
+  51_Perfect_Forwarding.vcxproj -> E:\web\Cpp\workspace\tutorial_examples\51_Perfect_Forwarding\x64\Debug\51_Perfect_Forwarding.exe

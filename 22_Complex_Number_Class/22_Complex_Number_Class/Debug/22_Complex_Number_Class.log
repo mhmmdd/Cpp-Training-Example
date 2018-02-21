@@ -1,0 +1,6 @@
+﻿  Complex.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol "public: __thiscall exampleComplex::Complex::~Complex(void)" (??1Complex@exampleComplex@@QAE@XZ) referenced in function _main
+E:\web\Cpp\workspace\22_Complex_Number_Class\Debug\22_Complex_Number_Class.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\web\cpp\workspace\12_vectors_and_memory\12_vectors_and_memory\source.cpp(13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\web\cpp\workspace\12_vectors_and_memory\12_vectors_and_memory\source.cpp(18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  12_Vectors_and_Memory.vcxproj -> E:\web\Cpp\workspace\12_Vectors_and_Memory\x64\Debug\12_Vectors_and_Memory.exe

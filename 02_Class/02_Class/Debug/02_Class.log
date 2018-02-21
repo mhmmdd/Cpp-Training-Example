@@ -1,0 +1,7 @@
+﻿  02_Class.cpp
+e:\web\python\cpp\02_class\02_class\02_class.cpp(12): error C2039: 'cout': is not a member of 'std'
+  e:\web\python\cpp\02_class\02_class\predefined c++ types (compiler internal)(238): note: see declaration of 'std'
+e:\web\python\cpp\02_class\02_class\02_class.cpp(12): error C2065: 'cout': undeclared identifier
+e:\web\python\cpp\02_class\02_class\02_class.cpp(12): error C2039: 'endl': is not a member of 'std'
+  e:\web\python\cpp\02_class\02_class\predefined c++ types (compiler internal)(238): note: see declaration of 'std'
+e:\web\python\cpp\02_class\02_class\02_class.cpp(12): error C2065: 'endl': undeclared identifier

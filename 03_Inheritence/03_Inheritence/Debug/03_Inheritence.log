@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\web\cpp\workspace\03_inheritence\03_inheritence\source.cpp(40): error C2561: 'main': function must return a value
+  e:\web\cpp\workspace\03_inheritence\03_inheritence\source.cpp(26): note: see declaration of 'main'

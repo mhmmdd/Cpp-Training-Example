@@ -1,0 +1,2 @@
+﻿  Source.cpp
+e:\web\cpp\workspace\04_virtual_method\04_virtual_method\source.cpp(31): error C2512: 'Player::Player': no appropriate default constructor available

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\web\cpp\workspace\tutorial_examples\49_static_casts\49_static_casts\source.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  49_Static_Casts.vcxproj -> E:\web\Cpp\workspace\tutorial_examples\49_Static_Casts\x64\Debug\49_Static_Casts.exe

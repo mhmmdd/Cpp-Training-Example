@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "47_Constructors_and_Memory", "47_Constructors_and_Memory\47_Constructors_and_Memory.vcxproj", "{BCA94C7F-5C9A-413C-866E-87B88FB6A898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA94C7F-5C9A-413C-866E-87B88FB6A898}.Debug|x64.ActiveCfg = Debug|x64
+		{BCA94C7F-5C9A-413C-866E-87B88FB6A898}.Debug|x64.Build.0 = Debug|x64
+		{BCA94C7F-5C9A-413C-866E-87B88FB6A898}.Debug|x86.ActiveCfg = Debug|Win32
+		{BCA94C7F-5C9A-413C-866E-87B88FB6A898}.Debug|x86.Build.0 = Debug|Win32
+		{BCA94C7F-5C9A-413C-866E-87B88FB6A898}.Release|x64.ActiveCfg = Release|x64
+		{BCA94C7F-5C9A-413C-866E-87B88FB6A898}.Release|x64.Build.0 = Release|x64
+		{BCA94C7F-5C9A-413C-866E-87B88FB6A898}.Release|x86.ActiveCfg = Release|Win32
+		{BCA94C7F-5C9A-413C-866E-87B88FB6A898}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26CB5843-AB85-44EA-9F8D-2C7C1A319345}
+	EndGlobalSection
+EndGlobal
